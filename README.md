@@ -1,2 +1,2 @@
 # git_test2
-testing my knowledge
+testing my knowledge TO GET BETTER! :D
